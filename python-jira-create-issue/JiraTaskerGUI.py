@@ -6,7 +6,7 @@ class Jira_Tasker_GUI:
 		Simple GUI to accomodate the quick-creation of JIRA tickets with 
 		or without a pre-defined user template.
 		
-		Has not been tested extensively for null or unknown values/input.
+		Testing for null or unknown values/input has been done, but not extensively.
 		
 		TODO: Implement exception handling ...
 	'''
